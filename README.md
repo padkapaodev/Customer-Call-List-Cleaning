@@ -1,6 +1,6 @@
 # Customer Call List - Data Cleaning (Pandas)
 
-Project Overview
+**Project Overview: **
 This project focuses on **Data Cleaning** using Python and Pandas. 
 The raw dataset (`Customer Call List.xlsx`) from kaggle contained real-world CRM data issues such as duplicate entries, formatting inconsistencies, missing values, and non-compliant records.
 
